@@ -42,6 +42,11 @@
 
 ---
 
+### ⚙️ Frameworks & Libraries
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,react,express" /> </p>
+
+---
+
 ### IDE and Tools I Use
 <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,notion" /> </p>
 
