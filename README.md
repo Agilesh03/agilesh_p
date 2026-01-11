@@ -1,4 +1,4 @@
-<img align="right" width="320" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" />
+<img align="right" width="320" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" />
 
 <h1 align = left >Hello All 👋 I’m Agilesh P </h1>
 
