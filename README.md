@@ -32,8 +32,10 @@
 </p>
 
 ---
+
 ### IDE and Tools I Use
 <p align="left"> <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,notion" /> </p>
+
 ---
 
 ### 📌 Featured Project
