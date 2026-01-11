@@ -1,4 +1,5 @@
-<img align="right" width="350" src="https://undraw.co/api/illustrations/undraw_programming_re_kg9v.svg" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" />
+
 
 <h1 align = left >Hello All 👋 I’m Agilesh P </h1>
 
