@@ -1,2 +1,3 @@
 ## 👋 Hi there, I’m Agilesh
+pursuing MCA Gen AI
 ...
