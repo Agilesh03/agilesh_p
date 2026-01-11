@@ -1,10 +1,10 @@
-<h1 align="left">Hi there 👋 It's me Agilesh</h1>
+<h1 align="left">Hello All 👋 I'm Agilesh P </h1>
 
-### Computer Science Student | Frontend Learner
+### Computer Science Student | Aspiring FullStack Ddeveloper
 
-- 🌱 Currently learning **DSA and Frontend Development**
-- 💻 Built frontend projects using **HTML, CSS, JavaScript**
-- 🚀 Learning by building small projects in free time
+- 🌱 Currently pursuing **MCA Generative AI**
+- 💻 Built projects using **HTML, CSS, JavaScript, Python**
+- 🚀 Learning by building small projects
 - ✨ Interested in clean UI and simple designs
 
 ---
