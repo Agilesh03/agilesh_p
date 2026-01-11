@@ -1,6 +1,6 @@
 <h1 align="left">Hello All 👋 I'm Agilesh P </h1>
 
-### Computer Science Student | Aspiring FullStack Ddeveloper
+### Computer Science Student | Aspiring FullStack Developer
 
 - 🌱 Currently pursuing **MCA Generative AI**
 - 💻 Built projects using **HTML, CSS, JavaScript, Python**
