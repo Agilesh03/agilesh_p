@@ -6,7 +6,7 @@ Computer Science Student | Aspiring Full-Stack Developer
 
 🤖 Exploring Generative AI concepts and learning new AI tools
 
-🧠 Currently learning Data Structures & Algorithms and will continue to improve problem-solving skills
+🧠 Learning Data Structures & Algorithms and improving problem-solving skills
 
 💻 Aspiring Full-Stack Developer with experience in web technologies
 (interested in MERN stack and open to other frameworks and stacks)
