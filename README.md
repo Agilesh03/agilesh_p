@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
-<p align="left">
+<p>
   <a href="https://www.instagram.com/_agil24_" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
