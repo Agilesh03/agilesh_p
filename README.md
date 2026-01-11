@@ -9,21 +9,23 @@
 
 ---
 
-### 🌐 Social Presence
+#### 🌐 Social Presence
+
 <p>
   <a href="https://www.linkedin.com/in/agilesh3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
   <a href="https://github.com/agiagilesh49" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-</p>
-<p>
-  <a href="https://www.instagram.com/_agil24_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+
+  <a href="https://www.instagram.com/_agi124_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/@imagilesh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+
+  <a href="https://x.com/imagilesh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
