@@ -8,7 +8,7 @@ Computer Science Student | Aspiring Full-Stack Developer
 
 🧠 Learning Data Structures & Algorithms and improving problem-solving skills
 
-💻 Aspiring Full-Stack Developer with experience in web technologies
+💻 Aspiring Full-Stack Developer with experience in web technologies 
 (interested in MERN stack and open to other frameworks and stacks)
 
 🎨 Interested in clean UI and simple, user-friendly designs
