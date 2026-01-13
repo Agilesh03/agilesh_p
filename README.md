@@ -64,6 +64,7 @@ Computer Science Student | Aspiring Full-Stack Developer
 
 ### 📌 Featured Project
 - **Taste Corner** – Frontend food website built using HTML, CSS, and JavaScript
+- **Event Management Project** - Event Management Project done during my internship in UG days
 
 ---
 
